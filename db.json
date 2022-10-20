@@ -3,97 +3,344 @@
         {
             "rank": 1,
             "username": "Justina",
-            "XP": 900
+            "XP": 900,
+            "isFriend":true,
+            "details":{
+                "loyaltyPoints":5000,
+                "digitalCollectibles":5,
+                "userCollectibles":1,
+                "numberOfCampaigns":2,
+                "trophies":{
+                    "Platinum":6,
+                    "Gold":2,
+                    "Silver":4,
+                    "Bronze":10
+                }
+            }
         },
         {
             "rank": 2,
             "username": "Lobsetr",
-            "XP": 800
+            "XP": 800,
+            "isFriend":true,
+            "details":{
+                "loyaltyPoints":3000,
+                "digitalCollectibles":5,
+                "userCollectibles":1,
+                "numberOfCampaigns":2,
+                "trophies":{
+                    "Platinum":5,
+                    "Gold":2,
+                    "Silver":4,
+                    "Bronze":10
+                }
+            }
         },
         {
             "rank": 3,
             "username": "Monk Fish",
-            "XP": 700
+            "XP": 700,
+            "isFriend":true,
+            "details":{
+                "loyaltyPoints":2000,
+                "digitalCollectibles":5,
+                "userCollectibles":1,
+                "numberOfCampaigns":2,
+                "trophies":{
+                    "Platinum":6,
+                    "Gold":2,
+                    "Silver":4,
+                    "Bronze":10
+                }
+            }
         },
         {
             "rank": 4,
             "username": "Scimitar",
-            "XP": 600
+            "XP": 600,
+            "isFriend":true,
+            "details":{
+                "loyaltyPoints":500,
+                "digitalCollectibles":5,
+                "userCollectibles":1,
+                "numberOfCampaigns":2,
+                "trophies":{
+                    "Platinum":6,
+                    "Gold":2,
+                    "Silver":4,
+                    "Bronze":10
+                }
+            }
         },
         {
             "rank": 5,
             "username": "FuriousGamer",
-            "XP": 599
+            "XP": 599,
+            "isFriend":true,
+            "details":{
+                "loyaltyPoints":800,
+                "digitalCollectibles":5,
+                "userCollectibles":1,
+                "numberOfCampaigns":2,
+                "trophies":{
+                    "Platinum":6,
+                    "Gold":2,
+                    "Silver":4,
+                    "Bronze":10
+                }
+            }
         },
         {
             "rank": 6,
             "username": "Dorine",
-            "XP": 512
+            "XP": 512,
+            "isFriend":true,
+            "details":{
+                "loyaltyPoints":900,
+                "digitalCollectibles":5,
+                "userCollectibles":1,
+                "numberOfCampaigns":2,
+                "trophies":{
+                    "Platinum":6,
+                    "Gold":2,
+                    "Silver":4,
+                    "Bronze":10
+                }
+            }
         },
         {
             "rank": 7,
             "username": "Pike",
-            "XP": 490
+            "XP": 490,
+            "isFriend":false,
+            "details":{
+                "loyaltyPoints":430,
+                "digitalCollectibles":5,
+                "userCollectibles":1,
+                "numberOfCampaigns":2,
+                "trophies":{
+                    "Platinum":6,
+                    "Gold":2,
+                    "Silver":4,
+                    "Bronze":10
+                }
+            }
         },
         {
             "rank": 8,
             "username": "AnglerFish",
-            "XP": 390
+            "XP": 390,
+            "isFriend":true,
+            "details":{
+                "loyaltyPoints":790,
+                "digitalCollectibles":5,
+                "userCollectibles":1,
+                "numberOfCampaigns":2,
+                "trophies":{
+                    "Platinum":6,
+                    "Gold":2,
+                    "Silver":4,
+                    "Bronze":10
+                }
+            }
         },
         {
             "rank": 9,
             "username": "Ram",
-            "XP": 200
+            "XP": 200,
+            "isFriend":true,
+            "details":{
+                "loyaltyPoints":300,
+                "digitalCollectibles":5,
+                "userCollectibles":1,
+                "numberOfCampaigns":2,
+                "trophies":{
+                    "Platinum":6,
+                    "Gold":2,
+                    "Silver":4,
+                    "Bronze":10
+                }
+            }
         },
         {
             "rank": 10,
             "username": "Saradomin",
-            "XP": 190
+            "XP": 190,
+            "isFriend":true,
+            "details":{
+                "loyaltyPoints":500,
+                "digitalCollectibles":5,
+                "userCollectibles":1,
+                "numberOfCampaigns":2,
+                "trophies":{
+                    "Platinum":6,
+                    "Gold":2,
+                    "Silver":4,
+                    "Bronze":10
+                }
+            }
         },
         {
             "rank": 11,
             "username": "Zamorack",
-            "XP": 490
+            "XP": 490,
+            "isFriend":false,
+            "details":{
+                "loyaltyPoints":5000,
+                "digitalCollectibles":5,
+                "userCollectibles":1,
+                "numberOfCampaigns":2,
+                "trophies":{
+                    "Platinum":6,
+                    "Gold":2,
+                    "Silver":4,
+                    "Bronze":10
+                }
+            }
         },
         {
             "rank": 12,
             "username": "Guthix",
-            "XP": 312
+            "XP": 312,
+            "isFriend":false,
+            "details":{
+                "loyaltyPoints":5000,
+                "digitalCollectibles":5,
+                "userCollectibles":1,
+                "numberOfCampaigns":2,
+                "trophies":{
+                    "Platinum":6,
+                    "Gold":2,
+                    "Silver":4,
+                    "Bronze":10
+                }
+            }
         },
         {
             "rank": 13,
             "username": "JohnPS5",
-            "XP": 200
+            "XP": 200,
+            "isFriend":true,
+            "details":{
+                "loyaltyPoints":5000,
+                "digitalCollectibles":5,
+                "userCollectibles":1,
+                "numberOfCampaigns":2,
+                "trophies":{
+                    "Platinum":6,
+                    "Gold":2,
+                    "Silver":4,
+                    "Bronze":10
+                }
+            }
         },
         {
             "rank": 14,
             "username": "AntiqueHunt",
-            "XP": 190
+            "XP": 190,
+            "isFriend":false,
+            "details":{
+                "loyaltyPoints":5000,
+                "digitalCollectibles":5,
+                "userCollectibles":1,
+                "numberOfCampaigns":2,
+                "trophies":{
+                    "Platinum":6,
+                    "Gold":2,
+                    "Silver":4,
+                    "Bronze":10
+                }
+            }
         },
         {
             "rank": 16,
             "username": "Bounty Hunter",
-            "XP": 150
+            "XP": 150,
+            "isFriend":true,
+            "details":{
+                "loyaltyPoints":700,
+                "digitalCollectibles":5,
+                "userCollectibles":1,
+                "numberOfCampaigns":2,
+                "trophies":{
+                    "Platinum":6,
+                    "Gold":2,
+                    "Silver":4,
+                    "Bronze":10
+                }
+            }
         },
         {
             "rank": 17,
             "username": "Hero Hunter",
-            "XP": 140
+            "XP": 140,
+            "isFriend":false,
+            "details":{
+                "loyaltyPoints":5000,
+                "digitalCollectibles":5,
+                "userCollectibles":1,
+                "numberOfCampaigns":2,
+                "trophies":{
+                    "Platinum":6,
+                    "Gold":2,
+                    "Silver":4,
+                    "Bronze":10
+                }
+            }
         },
         {
             "rank": 18,
             "username": "Charcoal",
-            "XP": 135
+            "XP": 135,
+            "isFriend":true,
+            "details":{
+                "loyaltyPoints":600,
+                "digitalCollectibles":5,
+                "userCollectibles":1,
+                "numberOfCampaigns":2,
+                "trophies":{
+                    "Platinum":6,
+                    "Gold":2,
+                    "Silver":4,
+                    "Bronze":10
+                }
+            }
         },
         {
             "rank": 19,
             "username": "Beast Gamers",
-            "XP": 134
+            "XP": 134,
+            "isFriend":true,
+            "details":{
+                "loyaltyPoints":500,
+                "digitalCollectibles":5,
+                "userCollectibles":1,
+                "numberOfCampaigns":2,
+                "trophies":{
+                    "Platinum":6,
+                    "Gold":2,
+                    "Silver":4,
+                    "Bronze":10
+                }
+            }
         },
         {
             "rank": 20,
             "username": "Avengers",
-            "XP": 120
+            "XP": 120,
+            "isFriend":true,
+            "details":{
+                "loyaltyPoints":400,
+                "digitalCollectibles":5,
+                "userCollectibles":1,
+                "numberOfCampaigns":2,
+                "trophies":{
+                    "Platinum":6,
+                    "Gold":2,
+                    "Silver":4,
+                    "Bronze":10
+                }
+            }
         }
     ]
 }
