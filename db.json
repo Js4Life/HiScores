@@ -1,0 +1,99 @@
+{
+    "users": [
+        {
+            "rank": 1,
+            "username": "Justina",
+            "XP": 900
+        },
+        {
+            "rank": 2,
+            "username": "Lobsetr",
+            "XP": 800
+        },
+        {
+            "rank": 3,
+            "username": "Monk Fish",
+            "XP": 700
+        },
+        {
+            "rank": 4,
+            "username": "Scimitar",
+            "XP": 600
+        },
+        {
+            "rank": 5,
+            "username": "FuriousGamer",
+            "XP": 599
+        },
+        {
+            "rank": 6,
+            "username": "Dorine",
+            "XP": 512
+        },
+        {
+            "rank": 7,
+            "username": "Pike",
+            "XP": 490
+        },
+        {
+            "rank": 8,
+            "username": "AnglerFish",
+            "XP": 390
+        },
+        {
+            "rank": 9,
+            "username": "Ram",
+            "XP": 200
+        },
+        {
+            "rank": 10,
+            "username": "Saradomin",
+            "XP": 190
+        },
+        {
+            "rank": 11,
+            "username": "Zamorack",
+            "XP": 490
+        },
+        {
+            "rank": 12,
+            "username": "Guthix",
+            "XP": 312
+        },
+        {
+            "rank": 13,
+            "username": "JohnPS5",
+            "XP": 200
+        },
+        {
+            "rank": 14,
+            "username": "AntiqueHunt",
+            "XP": 190
+        },
+        {
+            "rank": 16,
+            "username": "Bounty Hunter",
+            "XP": 150
+        },
+        {
+            "rank": 17,
+            "username": "Hero Hunter",
+            "XP": 140
+        },
+        {
+            "rank": 18,
+            "username": "Charcoal",
+            "XP": 135
+        },
+        {
+            "rank": 19,
+            "username": "Beast Gamers",
+            "XP": 134
+        },
+        {
+            "rank": 20,
+            "username": "Avengers",
+            "XP": 120
+        }
+    ]
+}
