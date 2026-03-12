@@ -21,10 +21,10 @@
         },
         {
             "rank": 2,
-            "username": "Lobsetr",
+            "username": "John",
             "XP": 800,
             "isFriend":true,
-            "img":"https://plus.unsplash.com/premium_photo-1739357845216-85240096306a?q=80&w=2053&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "img":"https://images.unsplash.com/photo-1709587797077-7a2c94411514?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "details":{
                 "loyaltyPoints":3000,
                 "digitalCollectibles":5,
@@ -43,7 +43,7 @@
             "username": "Monk Fish",
             "XP": 700,
             "isFriend":true,
-            "img":"https://unsplash.com/photos/a-person-wearing-a-garment-P0KD-pa16kc",
+            "img":"https://images.unsplash.com/photo-1701948709593-bdac58b4944f?q=80&w=1015&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "details":{
                 "loyaltyPoints":2000,
                 "digitalCollectibles":5,
@@ -62,7 +62,7 @@
             "username": "Scimitar",
             "XP": 600,
             "isFriend":true,
-            "img":"https://unsplash.com/photos/a-man-wearing-a-pair-of-google-glasses-lpD1HCbl3rU",
+            "img":"https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png",
             "details":{
                 "loyaltyPoints":500,
                 "digitalCollectibles":5,
@@ -81,6 +81,7 @@
             "username": "FuriousGamer",
             "XP": 599,
             "isFriend":true,
+            "img":"https://r2-us-west.photoai.com/1711918972-f2b83ecc683647f5f5b7ad8ca44990de-1.jpg",
             "details":{
                 "loyaltyPoints":800,
                 "digitalCollectibles":5,
@@ -99,6 +100,7 @@
             "username": "Dorine",
             "XP": 512,
             "isFriend":true,
+            "img":"https://static.vecteezy.com/system/resources/thumbnails/049/423/252/small/a-cool-mysterious-and-powerful-blue-masked-ninja-character-avatar-in-a-hooded-cloak-perfect-for-gaming-channels-esports-teams-and-social-media-profiles-free-vector.jpg",
             "details":{
                 "loyaltyPoints":900,
                 "digitalCollectibles":5,
@@ -117,6 +119,7 @@
             "username": "Pike",
             "XP": 490,
             "isFriend":false,
+            "img":"https://cdn.pixabay.com/photo/2023/07/24/08/28/ai-generated-8146559_1280.png",
             "details":{
                 "loyaltyPoints":430,
                 "digitalCollectibles":5,
@@ -135,6 +138,7 @@
             "username": "AnglerFish",
             "XP": 390,
             "isFriend":true,
+            "img":"https://wallpapers.com/images/featured/gaming-profile-pictures-xpcd6q5uud2i45v8.jpg",
             "details":{
                 "loyaltyPoints":790,
                 "digitalCollectibles":5,
@@ -153,6 +157,7 @@
             "username": "Ram",
             "XP": 200,
             "isFriend":true,
+            "img":"https://wallpapers.com/images/hd/gaming-profile-pictures-shyfl2qrgaj96sw3.jpg",
             "details":{
                 "loyaltyPoints":300,
                 "digitalCollectibles":5,
