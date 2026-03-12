@@ -5,6 +5,7 @@
             "username": "Justina",
             "XP": 900,
             "isFriend":true,
+            "img":"https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "details":{
                 "loyaltyPoints":5000,
                 "digitalCollectibles":5,
@@ -23,6 +24,7 @@
             "username": "Lobsetr",
             "XP": 800,
             "isFriend":true,
+            "img":"https://unsplash.com/photos/a-person-wearing-a-helmet-and-a-green-shirt-HKkXpx8wO2s",
             "details":{
                 "loyaltyPoints":3000,
                 "digitalCollectibles":5,
@@ -41,6 +43,7 @@
             "username": "Monk Fish",
             "XP": 700,
             "isFriend":true,
+            "img":"https://unsplash.com/photos/a-person-wearing-a-garment-P0KD-pa16kc",
             "details":{
                 "loyaltyPoints":2000,
                 "digitalCollectibles":5,
@@ -59,6 +62,7 @@
             "username": "Scimitar",
             "XP": 600,
             "isFriend":true,
+            "img":"https://unsplash.com/photos/a-man-wearing-a-pair-of-google-glasses-lpD1HCbl3rU",
             "details":{
                 "loyaltyPoints":500,
                 "digitalCollectibles":5,
